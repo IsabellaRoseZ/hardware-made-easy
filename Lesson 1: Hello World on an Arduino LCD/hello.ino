@@ -9,7 +9,7 @@ void setup() {
   lcd.backlight();     // Turn on backlight
 
   lcd.setCursor(0, 0); // Column 0, Row 0
-  lcd.print("Hello, World!");
+  lcd.print("Hello World!");
 }
 
 void loop() {
